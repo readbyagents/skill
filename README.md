@@ -1,11 +1,11 @@
-# readbyagents-skill
+# readbyagents/skill
 
 Claude Code + Claude Agent SDK skill for reading newsletters from [Read By Agents](https://readbyagents.com) — the agent-readable newsletter archive.
 
 ## Install
 
 ```bash
-npx skills add readbyagents/readbyagents-skill
+npx skills add readbyagents/skill
 ```
 
 ## What this skill lets your agent do

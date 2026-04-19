@@ -14,7 +14,7 @@ Please email **security@readbyagents.com** with:
 ## Scope
 
 This policy covers:
-- The `readbyagents-skill` repository (Claude Code + Agent SDK skill)
+- The `readbyagents/skill` repository (Claude Code + Agent SDK skill)
 - The public `readbyagents.com` API endpoints documented in [`SKILL.md`](./SKILL.md)
 
 For issues with the underlying Read By Agents service (email ingestion, R2 storage, conversion pipeline), the same address applies.
