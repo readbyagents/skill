@@ -5,7 +5,7 @@ Claude Code + Claude Agent SDK skill for reading newsletters from [Read By Agent
 ## Install
 
 ```bash
-npx skills add GeeWow/readbyagents-skill
+npx skills add readbyagents/readbyagents-skill
 ```
 
 ## What this skill lets your agent do
